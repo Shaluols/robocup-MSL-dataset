@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>1</folder>
+  <filename>0667</filename>
+  <path>/home/abby/Downloads/matlab/dataset/1/0667.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>408</width>
+    <height>460</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>robot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>62</ymin>
+      <xmax>294</xmax>
+      <ymax>381</ymax>
+    </bndbox>
+  </object>
+</annotation>
